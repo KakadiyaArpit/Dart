@@ -1,4 +1,4 @@
-//devloper--Arpit
+//--Arpit
 void main(){
   List lst1 = ["hello","how","are","you","fine","or","not"];//growable list
   print(lst1);//print whole list
