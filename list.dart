@@ -33,7 +33,7 @@ void main(){
   //updating list
   lst1[8]=8;//update 8th position elemnt 
   print(lst1);
-  lst1.replaceRange(4, 15,[1,2,3,4,5,6,7,8,9,10,11]);//replase elemnts for specified  range of list
+  lst1.replaceRange(4, 15,[1,2,3,4,5,6,7,8,9,10,11]);//replace elemnts for specified  range of list
   print(lst1);
 
   //removing list elements 
